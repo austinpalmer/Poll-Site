@@ -1,8 +1,10 @@
 # Poll Site
-Question/Answer Django site
+Question/Answer site
 
 # Tools
 Language: Python
+
 Web Framework: Django
+
 Database: PostGRE hosted using Railway
 
